@@ -1,0 +1,37 @@
+/*
+Template: thefox
+Theme Name: TheFox Child Theme
+Theme URI: http://www.thefoxwp.com
+Description: <strong>A superflexible and responsive Business Theme by Tranmautritam team</strong> - <br/>Update notifications available on twitter and facebook:<br/> <a href='https://twitter.com/tranmautritam'>Follow me on twitter</a><br/> - <a href='https://www.facebook.com/tranmautritam.designer'>Join the Facebook Group</a> A theme by <a href="http://themeforest.net/user/tranmautritam?ref=tranmautritam">Tranmautritam Team</a>.
+Version: 1.50
+Author: Tranmautritam Team
+Author URI: http://themeforest.net/user/tranmautritam?ref=tranmautritam
+License: Themeforest Split Licence
+License URI: -
+*/
+
+/***********Put your custom CSS below this block********/
+.icon_circle {
+	width: 80px !important;
+	height: 80px !important;
+}
+.icon_sub_ctn {
+	width: 70px !important;
+	height: 70px !important;
+}
+
+
+.elu-arrows-cw {
+	font-size: 40px !important;
+	padding-top: 6px;
+}
+.wb-snow {
+	font-size: 40px !important;
+	padding-top: 6px !important;
+}
+.icon_box2_st i {
+	font-size: 40px !important;
+	padding-top: 8px !important;
+}
+
+/*************************************************************************************/
